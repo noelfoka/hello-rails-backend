@@ -1,3 +1,3 @@
 class Message < ApplicationRecord
-    # add any associations or validations here
-  end
+  # add any associations or validations here
+end
